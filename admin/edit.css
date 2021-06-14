@@ -1,0 +1,41 @@
+h5{
+    font-size: 5em;
+    text-align: center;
+    border-style: solid none solid none;
+    border-width: 2px;
+    border-color: red;
+
+}
+.form-group{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    
+
+}
+.form-control{
+    font-size: 20px;
+}
+
+
+.btn{
+    background-color: black;
+    color: white;
+    
+    font-size: 1em;
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+    border: 1px solid white;
+   
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+    
+    font-size: 1em;
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+    border: 1px solid black;
+
+}
